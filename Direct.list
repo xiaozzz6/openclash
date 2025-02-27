@@ -2,15 +2,15 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,tanhuatv.site,🎯 全球直连
-DOMAIN-SUFFIX,frp-oil.com,🎯 全球直连
-DOMAIN-SUFFIX,llovezq.top,🎯 全球直连
-DOMAIN-SUFFIX,zox.show,🎯 全球直连
+DOMAIN-SUFFIX,tanhuatv.site
+DOMAIN-SUFFIX,frp-oil.com
+DOMAIN-SUFFIX,llovezq.top
+DOMAIN-SUFFIX,zox.show
 
 
 
 # 域名关键字匹配
-#例DOMAIN-KEYWORD,baidu.com,🎯 全球直连
+#例DOMAIN-KEYWORD,baidu.com
 
 
 # IP段匹配
