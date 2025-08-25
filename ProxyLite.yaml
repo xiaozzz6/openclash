@@ -1,9 +1,10 @@
 # 代理补充列表(自用）
 #
 payload:
+- DOMAIN-KEYWORD,swag-live
 - DOMAIN-SUFFIX,jsdelivr.net
 - DOMAIN-SUFFIX,swag-live.co
-- DOMAIN-SUFFIX,stripchat.com
+- DOMAIN-KEYWORD,stripchat
 - DOMAIN-SUFFIX,swag.live
 - DOMAIN-SUFFIX,sexgps.net
 - DOMAIN-SUFFIX,theporndude.com
