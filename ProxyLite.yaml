@@ -1,6 +1,7 @@
 # 代理补充列表(自用）
 #
 payload:
+- DOMAIN-SUFFIX,ipleak.net
 - DOMAIN-KEYWORD,swag-live
 - DOMAIN-SUFFIX,jsdelivr.net
 - DOMAIN-SUFFIX,swag-live.co
