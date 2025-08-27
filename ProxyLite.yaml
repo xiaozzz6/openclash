@@ -1,8 +1,8 @@
 # 代理补充列表(自用）
 #
 payload:
-- DOMAIN-KEYWORD,missav.live
-- DOMAIN-KEYWORD,missav.ws
+- DOMAIN-SUFFIX,missav.live
+- DOMAIN-SUFFIX,missav.ws
 - DOMAIN-SUFFIX,ipleak.net
 - DOMAIN-KEYWORD,swag-live
 - DOMAIN-SUFFIX,jsdelivr.net
