@@ -1,6 +1,7 @@
 # 代理补充列表(自用）
 #
 payload:
+- DOMAIN-SUFFIX,v1.mk
 - DOMAIN-SUFFIX,liwell.vip
 - DOMAIN-SUFFIX,ffqla.net
 - DOMAIN-SUFFIX,shop.xytx.dpdns.org
