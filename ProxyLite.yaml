@@ -1,6 +1,7 @@
 # 代理补充列表(自用）
 #
 payload:
+- DOMAIN-SUFFIX,2048.info
 - DOMAIN-SUFFIX,hjd2048.com
 - DOMAIN-SUFFIX,v1.mk
 - DOMAIN-SUFFIX,liwell.vip
