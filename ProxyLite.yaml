@@ -1,6 +1,12 @@
 # 代理补充列表(自用）
 #
 payload:
+- DOMAIN-SUFFIX,bitbucket.org
+- DOMAIN-SUFFIX,cilijia4.xyz
+- DOMAIN-SUFFIX,avjia.xyz
+- DOMAIN-KEYWORD,madouqu
+- DOMAIN-SUFFIX,377677.xyz
+- DOMAIN-SUFFIX,gcbt.net
 - DOMAIN-SUFFIX,4ho1.org
 - DOMAIN-SUFFIX,2048.info
 - DOMAIN-SUFFIX,hjd2048.com
