@@ -1,6 +1,8 @@
 # 代理补充列表(自用）
 #
 payload:
+- DOMAIN-SUFFIX,gamekillerapp.com
+- DOMAIN-SUFFIX,playmods.net
 - DOMAIN-SUFFIX,taiav.com
 - DOMAIN-SUFFIX,bitbucket.org
 - DOMAIN-SUFFIX,cilijia4.xyz
