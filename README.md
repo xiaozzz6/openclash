@@ -1,1 +1,2 @@
 # openclash
+自用！！！
