@@ -1,6 +1,7 @@
 # 代理补充列表(自用）
 #
 payload:
+- DOMAIN-SUFFIX,xsijishe.com
 - DOMAIN-SUFFIX,laowang.vip
 - DOMAIN-KEYWORD,pikpak
 - DOMAIN-SUFFIX,swiftgram.app
