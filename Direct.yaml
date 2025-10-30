@@ -1,8 +1,12 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 #
 payload:
-- DOMAIN-SUFFIX,v6.ident.me
-- DOMAIN-SUFFIX,v6.icanhazip.com
+- DOMAIN-SUFFIX,ipecho.net
+- DOMAIN-SUFFIX,icanhazip.com
+- DOMAIN-SUFFIX,ifconfig.me
+- DOMAIN-SUFFIX,ipinfo.io
+- DOMAIN-SUFFIX,checkip.amazonaws.com
+- DOMAIN-SUFFIX,ident.me
 - DOMAIN-SUFFIX,ipv6.seeip.org
 - DOMAIN-SUFFIX,ipzan.com
 - DOMAIN-SUFFIX,51daili.com
