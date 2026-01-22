@@ -10,3 +10,8 @@ payload:
 - DOMAIN-SUFFIX,ipv6.seeip.org
 - DOMAIN-SUFFIX,ipzan.com
 - DOMAIN-SUFFIX,51daili.com
+- PROCESS-NAME,直播伴侣.exe
+- PROCESS-NAME,BitComet_x64.exe
+- PROCESS-NAME,yysls.exe
+- PROCESS-NAME,D:\03_Games\SinglePlayer\yysls\Win32\deploy\launcher.exe
+- IP-CIDR,108.165.171.211/32
