@@ -14,3 +14,6 @@ payload:
 - DOMAIN-SUFFIX,paoluma.de
 - DOMAIN-SUFFIX,paolufu.de
 - DOMAIN-SUFFIX,uhdnow.com
+- PROCESS-NAME,RodelPlayer.UI.exe
+- PROCESS-NAME,hills_desktop.exe
+- PROCESS-NAME,HillsPlayer.exe
