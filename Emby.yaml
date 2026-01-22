@@ -1,6 +1,7 @@
 # 自用Emby
 # 
 payload:
+- DOMAIN-SUFFIX,567741.xyz
 - DOMAIN-SUFFIX,younoyes.com
 - DOMAIN-SUFFIX,rochub.xyz
 - DOMAIN-SUFFIX,younoyes.com
