@@ -1,6 +1,7 @@
 # 自用Emby
 # 
 payload:
+- DOMAIN-SUFFIX,65194798.xyz
 - DOMAIN-SUFFIX,567741.xyz
 - DOMAIN-SUFFIX,younoyes.com
 - DOMAIN-SUFFIX,rochub.xyz
@@ -14,6 +15,3 @@ payload:
 - DOMAIN-SUFFIX,paoluma.de
 - DOMAIN-SUFFIX,paolufu.de
 - DOMAIN-SUFFIX,uhdnow.com
-- PROCESS-NAME,RodelPlayer.UI.exe
-- PROCESS-NAME,hills_desktop.exe
-- PROCESS-NAME,HillsPlayer.exe
