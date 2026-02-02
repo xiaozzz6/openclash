@@ -1,0 +1,19 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)---loon
+#
+DOMAIN-SUFFIX,frp-bar.com
+DOMAIN-SUFFIX,frp-boy.com
+DOMAIN-SUFFIX,ipecho.net
+DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,checkip.amazonaws.com
+DOMAIN-SUFFIX,ident.me
+DOMAIN-SUFFIX,ipv6.seeip.org
+DOMAIN-SUFFIX,ipzan.com
+DOMAIN-SUFFIX,51daili.com
+PROCESS-NAME,直播伴侣.exe
+PROCESS-NAME,BitComet_x64.exe
+PROCESS-NAME,yysls.exe
+PROCESS-NAME,D:\03_Games\SinglePlayer\yysls\Win32\deploy\launcher.exe
+IP-CIDR,108.165.171.211/32
+IP-CIDR,192.168.1.55/32
