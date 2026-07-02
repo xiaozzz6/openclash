@@ -1,6 +1,8 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 #
 payload:
+- DOMAIN-SUFFIX,66666.host
+- DOMAIN-SUFFIX,666666.host
 - DOMAIN-SUFFIX,younoyes.com
 - DOMAIN-SUFFIX,567741.xyz
 - DOMAIN-SUFFIX,frp-bar.com
