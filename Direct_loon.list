@@ -1,5 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)---loon
 #
+DOMAIN-SUFFIX,ssvip.biz
+DOMAIN-SUFFIX,pipika.biz
 DOMAIN-SUFFIX,younoyes.com
 DOMAIN-SUFFIX,567741.xyz
 DOMAIN-SUFFIX,frp-bar.com
